@@ -12,3 +12,4 @@ C:\Users\gilmar.junior\Documents\Gilmar\Part\Projetos\Teste\obj\Debug\net8.0\ref
 C:\Users\gilmar.junior\Documents\Gilmar\Part\Projetos\Teste\obj\Debug\net8.0\Teste.pdb
 C:\Users\gilmar.junior\Documents\Gilmar\Part\Projetos\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
 C:\Users\gilmar.junior\Documents\Gilmar\Part\Projetos\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\Users\gilmar.junior\Documents\Gilmar\Part\Projetos\Teste\obj\Debug\net8.0\Teste.sourcelink.json
